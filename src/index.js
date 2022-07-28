@@ -64,7 +64,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <GlobalStyle/>
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename='/origin/'>
       <Header/>
       <Routes>
         <Route path='/' element={<Home/>}/>
