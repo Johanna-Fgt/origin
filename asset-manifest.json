@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.js": "/origin/static/js/main.60f768cf.js",
+    "main.js": "/origin/static/js/main.5166c46d.js",
     "static/media/Happy-tiny-house.jpg": "/origin/static/media/Happy-tiny-house.245f07e2106d07c58bff.jpg",
-    "static/media/POEC.png": "/origin/static/media/POEC.24eaee171bb3a0b4859c.png",
     "static/media/moon-surf-school-profs.jpg": "/origin/static/media/moon-surf-school-profs.4a90c1626d7baf5fd89b.jpg",
     "static/media/Argo.jpg": "/origin/static/media/Argo.50388dc593168b900288.jpg",
     "static/media/colchis.jpg": "/origin/static/media/colchis.5e303ec5ef50a3d36e5a.jpg",
     "static/media/star-command.jpg": "/origin/static/media/star-command.c350163010769758f51f.jpg",
     "static/media/profile.jpeg": "/origin/static/media/profile.b1b490fe861afd09354f.jpeg",
     "static/media/error404.jpg": "/origin/static/media/error404.f93d63cdd7d50e6832bb.jpg",
-    "static/media/CV_Johanna_Faget-PMSMP.pdf": "/origin/static/media/CV_Johanna_Faget-PMSMP.7a4b1a3c8db23b97b98a.pdf",
+    "static/media/CV_Johanna_Faget.pdf": "/origin/static/media/CV_Johanna_Faget.7a288b9e67f8ade62b2d.pdf",
     "static/media/converter.jpg": "/origin/static/media/converter.086243a2f55be96c2a13.jpg",
     "static/media/favicon-unicorn-new.png": "/origin/static/media/favicon-unicorn-new.7014bde14758a45fb688.png",
     "index.html": "/origin/index.html",
-    "main.60f768cf.js.map": "/origin/static/js/main.60f768cf.js.map"
+    "main.5166c46d.js.map": "/origin/static/js/main.5166c46d.js.map"
   },
   "entrypoints": [
-    "static/js/main.60f768cf.js"
+    "static/js/main.5166c46d.js"
   ]
 }
