@@ -1,6 +1,5 @@
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
-import POEC from '../../assets/doc/POEC.png'
 import AssessFirst from '../../assets/icons/favicon-unicorn-new.png'
 
 const StyledStack = styled.div`
@@ -123,46 +122,46 @@ function Skills(){
                     <h3>Intégration front-end</h3>
                     <ul>
                         <li>
-                            HTML / CSS / SASS / BOOTSTRAP
+                            HTML / CSS / SASS / BOOTSTRAP / JAVASCRIPT
                         </li>
                         <li>
-                            JAVASCRIPT
+                            SEO
                         </li>
                         <li>
                             UX ET UI DESIGN, RESPONSIVE DESIGN
                         </li>
                         <li>
-                            ANGULAR / TYPESCRIPT *
+                            FRAMEWORKS FRONT-END 
                         </li>
                         <li>
-                            REACT.JS
+                            WORDPRESS ET PRESTASHOP*
                         </li>
                     </ul>
                 </div>
                 <div>
-                    <h3>Développement back-end</h3>
+                    <h3>Développement back-end*</h3>
                     <ul>
                         <li>
-                            POO ET ALGORITHME *
+                            POO ET ALGORITHME 
                         </li>
                         <li>
-                            JAVA / SPRING *
+                            PHP/ SYMFONY
                         </li>
                         <li>
-                            API REST
+                            NODE.JS
                         </li>
                         <li>
-                            BASE DE DONNÉES / SQL *
+                            MODÈLE CONCEPTUEL DE DONNÉES
                         </li>
                         <li>
-                            GIT ET GITHUB   
+                            BASE DE DONNÉES / SQL
                         </li>
                     </ul>
                 </div>
            </StyledContainer>
-            <p>+ MÉTHODE AGILE - SCRUM *</p>
+            <p>+ GESTION DE PROJET ET MÉTHODE AGILE *</p>
             <StyledContainer>          
-                <a href={POEC} target="blanck" className='btn'>Programme complet</a>
+                <a href="https://www.wf3.fr/formation/formation-developpeur-web-et-web-mobile/" target="blanck" className='btn'>Programme complet</a>
                 <Link to='/work' className='btn'>Portfolio</Link>  
                 <a href="https://github.com/Johanna-Fgt" target="blanck" className='btn'>GitHub</a>
             </StyledContainer>

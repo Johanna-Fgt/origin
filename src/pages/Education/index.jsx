@@ -53,7 +53,7 @@ function Education(){
             <h1>FORMATIONS</h1>
             <ul>
                 <li>
-                    <StyledTitle>Développeur.se web Java / Angular</StyledTitle> - WILD CODE SCHOOL <strong>- Septembre 2022</strong>
+                    <StyledTitle>Développeur.se web et mobile</StyledTitle> - WEBFORCE3 <strong>- Septembre 2022</strong>
                 </li>
                 <li>
                     <StyledTitle>Création de site web avec HTML5 et CSS3</StyledTitle> - OPENCLASSROOMS - 2022
@@ -82,6 +82,15 @@ function Education(){
           </StyledEducation>
           <StyledEducation>
             <h1>CONTRAT DE PROFESSIONNALISATION</h1>
+            <ul>
+                <li>
+                    <StyledTitle>Développeuse web et mobile</StyledTitle> - WEBFORCE3 / RNCP (équivalent bac + 2)
+                </li>
+                <li>
+                    <StyledTitle>12 mois | 2022</StyledTitle>
+                </li>
+                <li>3,5 mois en centre et 8 mois en alternance 6 semaines en entreprise et 1 semaine en centre</li>
+            </ul> 
             <ul>
                 <li>
                     <StyledTitle>Conceptrice Développeuse d’Application</StyledTitle> - WILD CODE SCHOOL / RNCP (équivalent bac + 4)

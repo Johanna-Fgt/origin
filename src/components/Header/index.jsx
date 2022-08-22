@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { BiMenuAltRight} from "react-icons/bi";
 import { AiOutlineClose } from "react-icons/ai";
 import { useState } from 'react';
-import CV from "../../assets/doc/CV_Johanna_Faget-PMSMP.pdf"
+import CV from "../../assets/doc/CV_Johanna_Faget.pdf"
 
 
 const StyledNav = styled.div`

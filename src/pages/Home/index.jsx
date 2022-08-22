@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
 import PhotoDeProfil from '../../assets/img/profile.jpeg'
-import CV from "../../assets/doc/CV_Johanna_Faget-PMSMP.pdf"
+import CV from "../../assets/doc/CV_Johanna_Faget.pdf"
 
 const StyledIntro = styled.div`
     width : 90%;
@@ -123,15 +123,15 @@ function Home(){
             </StyledIntro>
             <Parallax>
                 <h1>Projet</h1>
-                <p>Je suis demandeuse d'emploi en reconversion professionnelle et intégrerai la formation de développeuse web Java / Angular avec la Wild Code School le 12 septembre prochain. Je souhaite poursuivre ma montée en compétences avec une formation de "Conceptrice Développeuse d’Application" en alternance en 2023.<br/><br/>
-                Je recherche l'entreprise qui m'accueillera pour valider un court <Link to="/education">stage d'observation</Link> (PMSMP - gratuit et conventionné pôle emploi) avant la rentrée, et/ou un contrat de professionnalisation pour la suite de mon aventure. <br/><br/>
+                <p>Je suis demandeuse d'emploi en reconversion professionnelle et intégrerai la formation de développeuse web et mobile avec la Webforce3 en septembre prochain. Je souhaite poursuivre ma montée en compétences avec une formation de "Conceptrice Développeuse d’Application" en alternance.<br/><br/>
+                Je recherche l'entreprise qui m'accueillera pour valider un court <Link to="/education">stage d'observation</Link> (PMSMP - gratuit et conventionné pôle emploi) avant la rentrée, et/ou un contrat de professionnalisation. <br/><br/>
                 Apprendre avec des développeurs professionnels serait pour moi une super occasion de progresser, et de débuter ma nouvelle carrière dans les meilleures conditions. Relever de nouveaux défis dans la bonne humeur avec une équipe bienveillante est au coeur de ma motivation.<br/><br/>
                 Je vous invite à consulter le détail des <Link to="/skills">compétences</Link> que je vais acquérir et quelques unes de mes <Link to="/work">réalisations</Link>.
                 </p>
             </Parallax>
             <StyledP>
-            <p>Je suis demandeuse d'emploi en reconversion professionnelle et intégrerai la formation de développeuse web Java / Angular avec la Wild Code School le 12 septembre prochain. Je souhaite poursuivre ma montée en compétences avec une formation de "Conceptrice Développeuse d’Application" en alternance en 2023.<br/><br/>
-            Je recherche l'entreprise qui m'accueillera pour valider un court <Link to="/education">stage d'observation</Link> (PMSMP - gratuit et conventionné pôle emploi) avant la rentrée, et/ou un contrat de professionnalisation pour la suite de mon aventure. <br/><br/>
+            <p>Je suis demandeuse d'emploi en reconversion professionnelle et intégrerai la formation de développeuse web et mobile à la Webforce3 en septembre prochain. Je souhaite poursuivre ma montée en compétences avec une formation de "Conceptrice Développeuse d’Application" en alternance.<br/><br/>
+            Je recherche l'entreprise qui m'accueillera pour valider un court <Link to="/education">stage d'observation</Link> (PMSMP - gratuit et conventionné pôle emploi) avant la rentrée, et/ou un contrat de professionnalisation. <br/><br/>
                 Apprendre avec des développeurs professionnels serait pour moi une super occasion de progresser, et de débuter ma nouvelle carrière dans les meilleures conditions. Relever de nouveaux défis dans la bonne humeur avec une équipe bienveillante est au coeur de ma motivation.<br/><br/>
                 Je vous invite à consulter le détail des <Link to="/skills">compétences</Link> que je vais acquérir et quelques unes de mes <Link to="/work">réalisations</Link>.
             </p>
